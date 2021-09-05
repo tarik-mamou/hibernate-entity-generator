@@ -1,5 +1,5 @@
 // default package
-// Generated Sep 2, 2021 9:48:27 AM by Hibernate Tools 6.0.0.Alpha5
+// Generated Sep 4, 2021 3:10:07 PM by Hibernate Tools 6.0.0.Alpha5
 
 
 import java.util.Date;
@@ -20,7 +20,7 @@ import javax.persistence.TemporalType;
 @Entity
 @Table(name="PROFIL"
     ,schema="PUBLIC"
-    ,catalog="H2_DATABASE_LIBRAIRE"
+    ,catalog="H2_DATABASE_LIBRAIRE_AVEC_SECURITY"
 )
 public class Profil  implements java.io.Serializable {
 
